@@ -1,7 +1,7 @@
 <h2 align="center">Hey :wave: , I'm Yijia Wang</h2>
 
 
-**About Me** [![Linkedin]([https://www.linkedin.com/in/yijia-wang17/](https://www.linkedin.com/in/yijia-wang17/))
+**About Me** https://www.linkedin.com/in/yijia-wang17/
 
 - :blue_heart:  MSCS student at Columbia University
 - :notes: Pronouns: He/His
