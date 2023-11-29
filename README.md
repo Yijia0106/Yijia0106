@@ -14,9 +14,9 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/#4169E1)
+![SQL](https://img.shields.io/badge/SQL-blue)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![REACT](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-Navy)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ***
